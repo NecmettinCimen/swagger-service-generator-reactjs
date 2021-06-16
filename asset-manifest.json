@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/swagger-service-generator-reactjs/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/swagger-service-generator-reactjs/static/js/main.26320730.chunk.js",
+    "main.js.map": "/swagger-service-generator-reactjs/static/js/main.26320730.chunk.js.map",
+    "runtime-main.js": "/swagger-service-generator-reactjs/static/js/runtime-main.ecb10a83.js",
+    "runtime-main.js.map": "/swagger-service-generator-reactjs/static/js/runtime-main.ecb10a83.js.map",
+    "static/js/2.8e15a24d.chunk.js": "/swagger-service-generator-reactjs/static/js/2.8e15a24d.chunk.js",
+    "static/js/2.8e15a24d.chunk.js.map": "/swagger-service-generator-reactjs/static/js/2.8e15a24d.chunk.js.map",
+    "static/js/3.2dff0ae4.chunk.js": "/swagger-service-generator-reactjs/static/js/3.2dff0ae4.chunk.js",
+    "static/js/3.2dff0ae4.chunk.js.map": "/swagger-service-generator-reactjs/static/js/3.2dff0ae4.chunk.js.map",
+    "index.html": "/swagger-service-generator-reactjs/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/swagger-service-generator-reactjs/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8e15a24d.chunk.js.LICENSE.txt": "/swagger-service-generator-reactjs/static/js/2.8e15a24d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecb10a83.js",
+    "static/js/2.8e15a24d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.26320730.chunk.js"
+  ]
+}
